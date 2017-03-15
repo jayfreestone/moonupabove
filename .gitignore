@@ -1,0 +1,14 @@
+/.env
+/.idea
+/vendor
+.DS_Store
+
+# Node/Sass
+node_modules
+
+# App
+craft/app/*
+craft/storage/*
+
+# Config
+craft/config/db.php
